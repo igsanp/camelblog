@@ -1,8 +1,16 @@
-+++
-title = 'My First Post'
-date = 2024-01-20T21:16:14-06:00
-draft = true
-+++
+---
+title: "(Hu)go Template Primer"
+date: 2014-04-02
+tags:
+  - "go"
+  - "golang"
+  - "templates"
+  - "themes"
+  - "development"
+categories:
+  - "Development"
+  - "golang"
+---
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.

@@ -2,3 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'camelblog.org'
 theme = 'mainroad'
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+
+  # Enable widgets in given order
+widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
