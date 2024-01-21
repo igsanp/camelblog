@@ -7,7 +7,7 @@ tags:
   - "music"
 ---
 
-This song written by simon and garfunkel is the one of I like most.
+This song written by Simon and Garfunkel is the one of I like most.
 [The sound of silence](https://www.youtube.com/watch?v=NAEppFUWLfc)
 
 
