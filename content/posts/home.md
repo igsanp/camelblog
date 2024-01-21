@@ -8,4 +8,8 @@ menu:
 weight: 1
 ---
 
-This site covers programming languages, compilers and compiler compilers and various topics including music.
+I decided to start a personal blog, because I wanted to write about topics like programming languages and compilers from a not programming expert.
+
+I wanted to write pieces of information, without deadlines weekly and let readers if she or he wishes to read them.
+
+This blog is not totally about programming, it includes topics(tags) like music and other themes that i like it.
