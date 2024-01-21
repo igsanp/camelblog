@@ -1,7 +1,6 @@
 ---
 title: 'Home'
 date:  2024-01-20T22:46:58-06:00
-draft: true
 tags:
   - "themes"
 menu:
