@@ -9,4 +9,7 @@ theme = 'mainroad'
   single = "right"
 
   # Enable widgets in given order
-widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.style.vars]
+  highlightColor = "#58d1b9"
