@@ -1,14 +1,10 @@
 ---
 title: "(Hu)go Template Primer"
+draft: true
 tags:
-  - "go"
-  - "golang"
-  - "templates"
-  - "themes"
-  - "development"
+  - "languages"
 categories:
   - "Development"
-  - "golang"
 ---
 ## Introduction
 

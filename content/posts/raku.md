@@ -2,10 +2,10 @@
 title: 'Raku'
 date: 2024-01-20T23:37:15-06:00
 tags:
-  - "themes"
+  - "languages"
 menu:
   - main
 weight: 3
 ---
-In this Category i will write about the programming language Raku.
+Raku is a general purpose programming language, is part of the perl family of languages and includes a compiler compiler. 
 
