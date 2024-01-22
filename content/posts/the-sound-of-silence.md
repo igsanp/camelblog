@@ -2,7 +2,7 @@
 title: 'The sound of silence'
 date:  2024-01-20T22:46:58-06:00
 categories:
-  - "music"
+  - "relax"
 tags:
   - "music"
 ---
