@@ -6,5 +6,5 @@ categories:
 tags: 
   - "crew"
 ---
-This section taks abot the women and men that have contrtibuted to the development of Perl.
+This section talks about the women and men that have contributed to the development of Perl.
 

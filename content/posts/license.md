@@ -3,8 +3,6 @@ title: 'License'
 date: 2024-01-24
 categories:
   - "resources"
-tags: 
-  - "crew"
 menu:
   - main
 weight: 4
