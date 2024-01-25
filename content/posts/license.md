@@ -9,5 +9,5 @@ menu:
   - main
 weight: 4
 ---
-www.camel.org is licensed under a [Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License.](https://creativecommons.org/licenses/by-nc-nd/3.0/us/) 
+www.camel.org is licensed under a [ CC BY-NC-ND 4.0 Deed | Attribution-NonCommercial-NoDerivs 4.0 International ](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 
 
