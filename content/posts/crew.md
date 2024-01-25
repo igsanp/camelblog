@@ -1,6 +1,6 @@
 ---
 title: 'Crew'
-date: 2024-01-24T23:27:41-06:00
+date: 2024-01-24
 categories:
   - "resources"
 tags: 
